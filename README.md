@@ -1,2 +1,2 @@
 # 2-D-Platformer
-Will upload the project by tomorrow midnight due to network issues at my home. apologies for late submission
+Uploaded The Project files. Download the zip file and open the "Game Club Assignment" folder with your Unity editor to view the project. The starting scene is _Mainmenu scene in the "Scenes" folder.
