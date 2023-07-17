@@ -31,7 +31,7 @@ Added Game Over Menu.
 
 # Answers to the questions.
 
-1) High-speed rendering:
+## High-speed rendering:
 We may achieve high-speed rendering without compromising on graphics by some of the methods below:
   1) We may reduce objects' detail level as they move farther away from the camera. This means less detailed models with fewer polygons may be used for distant objects. However, modern LOD systems are designed to transition smoothly between different levels of detail, ensuring that the visual downgrade is not noticeable to the player. The LOD system aims to balance performance and visual fidelity, so the impact on graphics quality should be minimal if implemented effectively.
 
@@ -40,7 +40,7 @@ We may achieve high-speed rendering without compromising on graphics by some of 
   3) Batching and instancing techniques optimize rendering by reducing the number of draw calls and minimizing the overhead of switching between objects. These techniques primarily focus on improving rendering efficiency rather than altering graphics quality. Combining similar objects into batches and using instancing to duplicate objects efficiently can achieve performance gains without sacrificing visual fidelity.
 
 
-2) See Through the World:
+## See Through the World:
 The phenomenon you describe, where you can see through the world or objects in a game, is commonly called "clipping" or "z-fighting." It is a graphical glitch that occurs due to precision limitations in the rendering pipeline. There are a few possible causes for this glitch:
 
   1) Insufficient Depth Buffer Precision: In a 3D rendering pipeline, a depth buffer (also known as a z-buffer) is used to determine which objects are closer to the camera and should be rendered in front of others. The depth buffer stores depth values for each pixel on the screen. However, if the precision of the depth buffer is not sufficient, it can lead to z-fighting issues. When two objects or surfaces are very close to each other in terms of depth, the limited precision of the depth buffer can cause flickering or swapping between the two objects, resulting in the appearance of seeing through the world.
@@ -56,7 +56,7 @@ Adjusting the near and far clipping planes or the overall scene scale can allevi
 Ensuring the game's meshes and collision geometry are properly constructed and aligned can help prevent unintended gaps or holes.
 
 
-3) Coyote Time:
+## Coyote Time:
 "Coyote Time" is a game design concept that provides a brief grace period for players to execute a jump after they have technically left a platform. It allows players to correct mistimed jumps and adds a level of forgiveness to platforming mechanics. Here's how its implementation influences game mechanics, player experience, and game design:
 
   1) Game Mechanics: Coyote Time extends the window of opportunity for players to jump, even if their character's feet have already left the platform. This means that players can press the jump button slightly after leaving a platform and still successfully execute a jump. It reduces the frustration of narrowly missed jumps and gives players more control over their character's movement in platforming challenges.
