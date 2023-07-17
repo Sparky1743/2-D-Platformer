@@ -1,0 +1,4914 @@
+fileFormatVersion: 2
+guid: a5bed8c8e77ee4c34990d94b94cb2afe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: middleground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2459ba7451f4348a5928a3ffe6c3f7
+      internalID: 2110622479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992061fdf325119489aa549fa2c97ddf
+      internalID: -274118776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8b59ed0f65bcf429c09cef1e7dbab0
+      internalID: -1423539671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa766b0ef72fd44189c0fb1df54d958
+      internalID: -888554700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da044bef3614cf4c89680a51fa08b34
+      internalID: 1322280983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0f8799fe25b14b9eb60bd69fe41fa
+      internalID: -1678913087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c28b936e7b5d46a557ad65198a38c
+      internalID: -1150289455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec237305df25dec4e8a7f7b1daa4f4d0
+      internalID: 1062770464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6bd02d8d751124699ab56b8cba5b71
+      internalID: 1339893655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8980877983c84c843a49f2f8ed62d599
+      internalID: 805403033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933bda9cf87b6004e8480f40b59144d1
+      internalID: -333460441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab28cf446af80f4eacc2d2e5d825c3d
+      internalID: -441550859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec9ed19d65b2c4aabacf180be5a3b1
+      internalID: -1298697005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f32790aeb24ec64d91756d95b0767a1
+      internalID: -2090545869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5af46cec5c424b9009d8be11f1b2b
+      internalID: -410780101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234effabf8130c041843b8a368e6ffa8
+      internalID: -2145827642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148a519019a78134690c70626c1fe10f
+      internalID: 442606644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b85a5675b89540a9e4556c6385aa6
+      internalID: -1432478993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e2f2050b4d2a489c5eb3910164ac2
+      internalID: -18879486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d90acecf0be8e469f7d3ab55f8cb34
+      internalID: -8453458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92cfb6c47822446a1355bf24bbf6d3
+      internalID: 582828830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49bcb4a792bba04aadb40cb9f102272
+      internalID: 1693941459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7383ae3677b646b6ace06751012fe
+      internalID: -1590019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8fb3b3ea232b8499efe4a3a905b896
+      internalID: 629685701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b75e4d10dcf42849a5559f1ef5739a8
+      internalID: 861553396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf4cfb77ebbe294da976a3dcf712054
+      internalID: 1823102702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a071a8df1cc1c4ab60e3f26b15a43c
+      internalID: 1557363705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7350dd4794531ab4c98b3f2aa80c5741
+      internalID: 15522116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7257ca479b4e44bcaa175097c2112
+      internalID: 1532119139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938902165a2a2147b48b4b075524606
+      internalID: 1663886504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17909af7c08eda8429ccde8aad132e83
+      internalID: 467151609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1fd9a90a0077b4eab79b5b4e9d0b55
+      internalID: 42776229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd74f33c92d7884bb5e08f81f797c86
+      internalID: -1753444675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69abf0a18f71244783570a9d3193c36
+      internalID: -380495586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905566eb75d43b46a39ef19e49f109b
+      internalID: -1310945424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9a3afd3ffa48b40b6d7abcfb0a24be
+      internalID: -1140385146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_36
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a46ca40e00cef43b7b1e73d9e4cb0e
+      internalID: -1344031397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 148
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256fb7e7a8c3294eac3ac65e7dfef51
+      internalID: 1783982095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b9b885829d5b458f6f4a727a68b2d
+      internalID: -2102107280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc5321e62d073747b351fc4f72407d8
+      internalID: -1376242370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76604ebd7d4e24ca0771781cdd67f0
+      internalID: 824040310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3231206060034e48810a18d638fd928
+      internalID: -1985698945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffde8ef4a7d8f2478a1ceeac4e0e592
+      internalID: -534578980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f5df2eeb37b44f87bdb6e31d14e0f
+      internalID: -887121640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a3380d22498f14d9cf084abbdae3ee
+      internalID: 1881368302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf78c97d1f1165488c3d26c593bf7a6
+      internalID: -755023229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c38ff662fb1164fba5e19be2a89fb8
+      internalID: 1831234892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad131f5b332baac4494320ad5ba276d7
+      internalID: -274244528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b80a98e13c354bab2dbf70d333819
+      internalID: 1402392443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd569ad748be1f4a9a78430b2462e7e
+      internalID: 53873496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799908ac33b102748b94d0ba04df4e23
+      internalID: 1542634432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa186317b8f7544997ff987bacb5c92
+      internalID: 328406846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95170b1ab1b1a824e9e589a96a704d08
+      internalID: -826777954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c69310eeb0394198dc2adee147964
+      internalID: 268923621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79552566f102b9040b950ae4ddfcc63f
+      internalID: -1058647335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788955f93109f3f4c9ec5b738eb362b9
+      internalID: 676215116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 134
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f098426ea33c44b8902c4429475dba
+      internalID: -452120097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e8d25dc0b421469513d1f91e0ef1f
+      internalID: 1224034986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda041cd3f9bc5f4ab1545fb90e078f8
+      internalID: -1915057914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_59
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e06b4cbeac9e43b192e1d5e439048
+      internalID: -1081221340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0fe49957b6e549a462e0189b8ea6c
+      internalID: -1475221167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f3910b204cc642adc41f994cdecb7
+      internalID: 1065912937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8830813412a654db65cc08f80d25be
+      internalID: -1263804257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5a56b538d2a8f4f8af4a56e356bf2c
+      internalID: 1689387836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4337d57bcc8434d8a920d29e1815d4
+      internalID: 1850206286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa507948aa21f1d40871dd383474edb9
+      internalID: 1746410379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_66
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab08cab828a4643aca1e238299388f
+      internalID: -1218394197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f9d2e18f25d343b1dbc0b06f74f87
+      internalID: 1461475458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaba45beefe9ec4cbed29ccccfd5be8
+      internalID: 948822300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca0ca280cc55c49a66b599864bd7eb
+      internalID: 25055253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_70
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3327882fce47c544a8284ee92c5ee549
+      internalID: -1035447949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01a414fd0d3634caf0eafddedd3caf
+      internalID: 1466101425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932071435534e949babbd35aa4f713e
+      internalID: -1130968825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf26a2362fada641a0e8afd0344b994
+      internalID: -1598609392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ac0967d3dd6a44be64e0b03e65a4a
+      internalID: -326373605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6100cecd8013f144a4331cf09372fd3
+      internalID: -437224145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede2212322874774b8cc241980e679ec
+      internalID: 1967573403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5828eb244bc4cd43ad67fe8fa2b9126
+      internalID: -1842136000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f0df09798aeac4e98a4137cd226674
+      internalID: -695464881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c3c0a599e1dc478579a439e1053da
+      internalID: 1770454680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a080e2043da554fb6ee11cad7ed1d4
+      internalID: 965620387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca92d9916dd5847ab1d13ebf8b43ba
+      internalID: -1138591886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2bdbfe9f8553d43b8125404fd260bb
+      internalID: -181719995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5d30c655b2594da6481fe54c3a19f
+      internalID: -1509146998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d00f963fb04ae443ac03f56d5138956
+      internalID: 218894354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d0b5bd024020e4682ddb631b676445
+      internalID: 780283528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53eb3f4f8afc8b4eb8d00ca493246b4
+      internalID: -446457470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f4360232529c478e99e65a6506a83
+      internalID: -2079697264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badd02befa123444b95ce30360706de5
+      internalID: 1269339865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_89
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3d2f701aea664fb9a99b2cae8fc3c
+      internalID: 142939278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c59dfd0aff2847810071138536ce1
+      internalID: 1720486712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f729fc5cf712944b86c0881d91871d2
+      internalID: 146796563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4437f36ba0cfb4591cd4684c84510d
+      internalID: 771929438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4ac22251d1a4942be71e771fcb1b4c
+      internalID: -567768473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fcf7994075ca642bbf5ea18771cf19
+      internalID: -247141658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7076528bbd8ce44ba51c2de0440cc0e
+      internalID: 1293333674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3de586cf6aeb43a861bb0989c4aff
+      internalID: 83508219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_97
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b86716a0855c46a2077197e252018
+      internalID: -1302070758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_98
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd0d3d429c6e3479051980b6df3e55
+      internalID: 160721996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_99
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d453d89a33c914bb3cbd621ce116a0
+      internalID: -2002538898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_100
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d67a65c753306478b3a054fb489c21
+      internalID: -672740172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb5a1e0b4ee3141a81bbce6ffff4a6
+      internalID: -67516738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_102
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c1a65e517ce144923e4ff95a9c92c
+      internalID: 883392148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b4ff134cb6b041b24bc206407ed0b
+      internalID: 840421425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_104
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ad55ffb245184994d368d97e01c21
+      internalID: 181158444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc304a773da2da4b89820d507f96563
+      internalID: 286072278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189e718162549248a0e43159ee6e95a
+      internalID: -1219271718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c298bee8c46594684262fc591b18a9
+      internalID: -1147369997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_108
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74a0c11a7d6cc45a565cb4cfeba15b
+      internalID: -1326109660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7989e1bc57c6f2e48bb8af0b7d5705d7
+      internalID: -1269781839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180616d6fa6c55b498f8811a870293af
+      internalID: 1029487599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d3cb0ae97f21147ab0810fb18a4047
+      internalID: 1407386049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e967b4c4b996141b6d08a7773becb8
+      internalID: 1527564630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1841a1f7099df42a89b0fc8cded42d
+      internalID: 1787206379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6a47d12988f8438804d9c3aa70454
+      internalID: 303502493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_115
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed385db3f89066140a6664c9e979213b
+      internalID: 1164918799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_116
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134625a367289654ab42bdb27c489543
+      internalID: -1570311434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_117
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef0f81216befa443b641328f2ce6734
+      internalID: 857510253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_118
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cb0342dd3d96546914ea4b354ec394
+      internalID: 2009740322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31004987346286847a1d19d15b65d4bd
+      internalID: -1770922990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_120
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ce9e81133907b4fb3e9a76980cc624
+      internalID: -1579034106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4cb921212bcb48b64150b44f59b17
+      internalID: -858300143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c065eae2b015724fa759a35e19819a8
+      internalID: 1902126681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_123
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63cce8af9deb847a475340ed59a1da
+      internalID: 1737469457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_124
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018c6f3201fcba4e9f4868bab72b9b1
+      internalID: 1206184566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_125
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484c70d11a58aea4187745f9ca789096
+      internalID: 1864954236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b530686c3b7a46b60d3e44d26d965
+      internalID: 59700899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_127
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaecc6945a6da444b7e769924d47e95
+      internalID: -1013365762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_128
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d22025637a464085e9ea5ee686943
+      internalID: 1185526666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592fa68e0bf5a9744b651bad3a16654e
+      internalID: 1001704038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_130
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4f6e504f0ada478211c2f47f6db37
+      internalID: 1131598356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_131
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d418ef3d66804fab3b33d4cc2938e
+      internalID: 504403414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_132
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd780e9b45dfa0248b5f5717ec64f47c
+      internalID: 987926766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_133
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b7257f3179964d8eb394f7412c8c6
+      internalID: 534458805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657cf308a0e3634a8fc2f26cc9980d7
+      internalID: -645456968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82d1fe3217b0a499c56fb59fa3f0a8
+      internalID: -961819945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_136
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4c66a82e5aeb4cb97c4ffca49fdc7
+      internalID: -980627504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_137
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e90235ebccdf499e31b2b6729b13c
+      internalID: 2062288462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_138
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce1a372ab8c8a4eb2346e9973765e2
+      internalID: 874298852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_139
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a2a6bbfc41bc4bb8b18f8e47ef95c
+      internalID: -1982754510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4038f0ba6579459a525b90c1e5371
+      internalID: -538439034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffbc90d878af9649b3f3ba985842b04
+      internalID: 1388974340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_142
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0bad3a67c99004f9b58b094a99ce15
+      internalID: -219153635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_143
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0d872aafa8d74eb51fda1eb89550b
+      internalID: -815336667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becfd136d8f2ebe4ea8246311c6e146d
+      internalID: 1820431109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_145
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a142f8005b64af44fb6517867a2094ea
+      internalID: 2091122707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_146
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48f68bc6204cef499bba2c49bee256f
+      internalID: 1405012641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_147
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a43f69350838a429565922f5203b44
+      internalID: -135794105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_148
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be86e33b2cc9624c947347c53d52e6c
+      internalID: -1602217533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_149
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1479859b6b176c04088b1be775b5c04c
+      internalID: -1623025948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894dbeb24cae84418bad6302f701e96
+      internalID: 1181948863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_151
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2dec3635c38248ba644d57587fa4a
+      internalID: -530431113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ae1496966ff3a4eb8ed7d05b28db0c
+      internalID: -316862652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_153
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa8ef500acdac44f841faef287c3d03
+      internalID: 1193782609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_154
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f55842205e444e9ab4c3e2958efa7
+      internalID: 272816386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_155
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e966126d45061d418327a846d693a1d
+      internalID: 1928108431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_156
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ed92a8d77d9845a400ee8329e33b3
+      internalID: 265798661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ade82fcba0fe44aa305533ee2cbec5
+      internalID: 180473775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_158
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7aeac637a217b4488fe49e2d1649ac
+      internalID: 635333131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_159
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41046f5e1b8e7448b267788919678f7
+      internalID: 2017619357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5723cc2dd1f634dada753964c1c219
+      internalID: -1944865707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_161
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d60ccf349d7547865fad20d9f01b2
+      internalID: 751198716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_162
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fa9c917904d14898bc3df410ba95b
+      internalID: -836503969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_163
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2891d42829e134d94856529708963e
+      internalID: 1898046692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_164
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d542e55aabc174e86a90ad985b0ccb
+      internalID: 1129682101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_165
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc8801893009f4696fe9bc2d699de6
+      internalID: -991881226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_166
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca6a37e7220db4dac1ccbb3fa71480
+      internalID: -1390785634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_167
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0636290f08fd2ac4ab28c4410c7f37f8
+      internalID: -1647707566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_168
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dff84e34488be49879225992ca51b3
+      internalID: 1571465899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_169
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8ad0ce21fc6e64cbdd4ceb2afd85c1
+      internalID: -1587257363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_170
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c4c0eb1aa7fc84abf82c8aa4ea8fc7
+      internalID: 655920951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_171
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779c0880cc02574098f3a16caf47dc8
+      internalID: 1025553279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_172
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8cd32cea1e514280d233a688ff0d7
+      internalID: 479193043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_173
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40658fa61f59b84eb49352edee50640
+      internalID: 1546177707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_174
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e578a597d1a5e4bb02a2d7e3ff01d5
+      internalID: 384875270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93973a05dc2f74382c9d9551e5583e
+      internalID: -1355498331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398880e019d172046ad02bc7e8a91234
+      internalID: -1340893850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_177
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e688f9191e04e24f8b8548ebc19fcbd
+      internalID: 2041230527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_178
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f165eab1ac9b4382a1786afb60058
+      internalID: 271605285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32e2f0d16999b4097b538fc3887eb9
+      internalID: 713096398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_180
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8ed617ae8ece4cbf477b945c8e93d
+      internalID: -382619471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_181
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60dbc251a1bfe4c97aa86a9c1e1d6c
+      internalID: -162694030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_182
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72468162759ff0a4aba98c3dcc6f8489
+      internalID: -190201854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee47000dd9feec449bd3ddd52b6f5e98
+      internalID: 749256972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_184
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd3a9e8c73a1cf4aa8d0cb48adad1b5
+      internalID: -10482104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_185
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bdea338e18cb74090bf95deff0ad94
+      internalID: 300246898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_186
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3213c4c9454cfb44a942920079e3a92f
+      internalID: -1566493410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3edc5e843cc946b65e853f278e3f2
+      internalID: -1841217806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_188
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6a144815f64a41a1c897ebb83728f
+      internalID: -434114581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_189
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7dcf3402c40f4d847b2bab7ed0b86
+      internalID: 1567902685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_190
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d00598eb74924d86e6d14ef13bede
+      internalID: 1666241068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_191
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126241fbd42c86a488810448191ab88e
+      internalID: 1834052057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_192
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eaf4ef5e99823489b7da338c703f23
+      internalID: -642948255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_193
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7268934287b87419b7bed23f999a61
+      internalID: -1731019730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_194
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49ff9bead3aea46bb0ed00ed9e5ec7
+      internalID: 682033080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_195
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5cf2c894801f243b2110cc8697cac2
+      internalID: 2099120730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_196
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10baeecdee2c1429dc85b79cb7ff4c
+      internalID: 2130003225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_197
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cfe11e1a6b6304599b0b6805d15d2b
+      internalID: -1369333497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f6c6a6fc2ecaa469176766140dfeff
+      internalID: 1411937454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_199
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf5b6dba624fd64ab620fb71a702c19
+      internalID: -1498873647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_200
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11678e2d637223409c510311a895e75
+      internalID: 630217587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_201
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ad7a6f1889044485bbcb298ced813
+      internalID: 849590645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e421cff12219c847a9ab71ab5d80c5c
+      internalID: -778803911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_203
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a669330d2b7a874488688c9bfd8ed09
+      internalID: -775809789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_204
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a598cda77372f4ba5afb10a1b46dfd
+      internalID: -2043252763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_205
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4dc48cdd19c54419ce5831bad0d15c
+      internalID: -1094496351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_206
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d9859dea8e03479f3f41dde633de5
+      internalID: 202521598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_207
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bed0811c6abaae4d88f6f76492fd11c
+      internalID: -2030110207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_208
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced7aca841237234a847022e5a534a08
+      internalID: 1010904319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_209
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf2a356b13059469cb064adc40f144
+      internalID: 1054604275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_210
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2562d3f2458347ad33d53fa1e2be1
+      internalID: -789933613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_211
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c920a81471824883ec31b5369e12b
+      internalID: 668868008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_212
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b9c8aecd427d46bb4c729ccfb0a66
+      internalID: 1624746241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_213
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744c28e5d4449c40a4b936e0292d8ad
+      internalID: -2016593852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4083b03add72af24f8c4ae5e83376608
+      internalID: -358850774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_215
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c14fa59d5711749b08d91385da5fa4
+      internalID: 1398871596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: middleground_216
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c791aabe0506d4f96f6fdd4a6eaf41
+      internalID: -260352956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      middleground_0: 2110622479
+      middleground_1: -274118776
+      middleground_10: -333460441
+      middleground_100: -672740172
+      middleground_101: -67516738
+      middleground_102: 883392148
+      middleground_103: 840421425
+      middleground_104: 181158444
+      middleground_105: 286072278
+      middleground_106: -1219271718
+      middleground_107: -1147369997
+      middleground_108: -1326109660
+      middleground_109: -1269781839
+      middleground_11: -441550859
+      middleground_110: 1029487599
+      middleground_111: 1407386049
+      middleground_112: 1527564630
+      middleground_113: 1787206379
+      middleground_114: 303502493
+      middleground_115: 1164918799
+      middleground_116: -1570311434
+      middleground_117: 857510253
+      middleground_118: 2009740322
+      middleground_119: -1770922990
+      middleground_12: -1298697005
+      middleground_120: -1579034106
+      middleground_121: -858300143
+      middleground_122: 1902126681
+      middleground_123: 1737469457
+      middleground_124: 1206184566
+      middleground_125: 1864954236
+      middleground_126: 59700899
+      middleground_127: -1013365762
+      middleground_128: 1185526666
+      middleground_129: 1001704038
+      middleground_13: -2090545869
+      middleground_130: 1131598356
+      middleground_131: 504403414
+      middleground_132: 987926766
+      middleground_133: 534458805
+      middleground_134: -645456968
+      middleground_135: -961819945
+      middleground_136: -980627504
+      middleground_137: 2062288462
+      middleground_138: 874298852
+      middleground_139: -1982754510
+      middleground_14: -410780101
+      middleground_140: -538439034
+      middleground_141: 1388974340
+      middleground_142: -219153635
+      middleground_143: -815336667
+      middleground_144: 1820431109
+      middleground_145: 2091122707
+      middleground_146: 1405012641
+      middleground_147: -135794105
+      middleground_148: -1602217533
+      middleground_149: -1623025948
+      middleground_15: -2145827642
+      middleground_150: 1181948863
+      middleground_151: -530431113
+      middleground_152: -316862652
+      middleground_153: 1193782609
+      middleground_154: 272816386
+      middleground_155: 1928108431
+      middleground_156: 265798661
+      middleground_157: 180473775
+      middleground_158: 635333131
+      middleground_159: 2017619357
+      middleground_16: 442606644
+      middleground_160: -1944865707
+      middleground_161: 751198716
+      middleground_162: -836503969
+      middleground_163: 1898046692
+      middleground_164: 1129682101
+      middleground_165: -991881226
+      middleground_166: -1390785634
+      middleground_167: -1647707566
+      middleground_168: 1571465899
+      middleground_169: -1587257363
+      middleground_17: -1432478993
+      middleground_170: 655920951
+      middleground_171: 1025553279
+      middleground_172: 479193043
+      middleground_173: 1546177707
+      middleground_174: 384875270
+      middleground_175: -1355498331
+      middleground_176: -1340893850
+      middleground_177: 2041230527
+      middleground_178: 271605285
+      middleground_179: 713096398
+      middleground_18: -18879486
+      middleground_180: -382619471
+      middleground_181: -162694030
+      middleground_182: -190201854
+      middleground_183: 749256972
+      middleground_184: -10482104
+      middleground_185: 300246898
+      middleground_186: -1566493410
+      middleground_187: -1841217806
+      middleground_188: -434114581
+      middleground_189: 1567902685
+      middleground_19: -8453458
+      middleground_190: 1666241068
+      middleground_191: 1834052057
+      middleground_192: -642948255
+      middleground_193: -1731019730
+      middleground_194: 682033080
+      middleground_195: 2099120730
+      middleground_196: 2130003225
+      middleground_197: -1369333497
+      middleground_198: 1411937454
+      middleground_199: -1498873647
+      middleground_2: -1423539671
+      middleground_20: 582828830
+      middleground_200: 630217587
+      middleground_201: 849590645
+      middleground_202: -778803911
+      middleground_203: -775809789
+      middleground_204: -2043252763
+      middleground_205: -1094496351
+      middleground_206: 202521598
+      middleground_207: -2030110207
+      middleground_208: 1010904319
+      middleground_209: 1054604275
+      middleground_21: 1693941459
+      middleground_210: -789933613
+      middleground_211: 668868008
+      middleground_212: 1624746241
+      middleground_213: -2016593852
+      middleground_214: -358850774
+      middleground_215: 1398871596
+      middleground_216: -260352956
+      middleground_22: -1590019
+      middleground_23: 629685701
+      middleground_24: 861553396
+      middleground_25: 1823102702
+      middleground_26: 1557363705
+      middleground_27: 15522116
+      middleground_28: 1532119139
+      middleground_29: 1663886504
+      middleground_3: -888554700
+      middleground_30: 467151609
+      middleground_31: 42776229
+      middleground_32: -1753444675
+      middleground_33: -380495586
+      middleground_34: -1310945424
+      middleground_35: -1140385146
+      middleground_36: -1344031397
+      middleground_37: 1783982095
+      middleground_38: -2102107280
+      middleground_39: -1376242370
+      middleground_4: 1322280983
+      middleground_40: 824040310
+      middleground_41: -1985698945
+      middleground_42: -534578980
+      middleground_43: -887121640
+      middleground_44: 1881368302
+      middleground_45: -755023229
+      middleground_46: 1831234892
+      middleground_47: -274244528
+      middleground_48: 1402392443
+      middleground_49: 53873496
+      middleground_5: -1678913087
+      middleground_50: 1542634432
+      middleground_51: 328406846
+      middleground_52: -826777954
+      middleground_53: 268923621
+      middleground_54: -1058647335
+      middleground_55: 676215116
+      middleground_56: -452120097
+      middleground_57: 1224034986
+      middleground_58: -1915057914
+      middleground_59: -1081221340
+      middleground_6: -1150289455
+      middleground_60: -1475221167
+      middleground_61: 1065912937
+      middleground_62: -1263804257
+      middleground_63: 1689387836
+      middleground_64: 1850206286
+      middleground_65: 1746410379
+      middleground_66: -1218394197
+      middleground_67: 1461475458
+      middleground_68: 948822300
+      middleground_69: 25055253
+      middleground_7: 1062770464
+      middleground_70: -1035447949
+      middleground_71: 1466101425
+      middleground_72: -1130968825
+      middleground_73: -1598609392
+      middleground_74: -326373605
+      middleground_75: -437224145
+      middleground_76: 1967573403
+      middleground_77: -1842136000
+      middleground_78: -695464881
+      middleground_79: 1770454680
+      middleground_8: 1339893655
+      middleground_80: 965620387
+      middleground_81: -1138591886
+      middleground_82: -181719995
+      middleground_83: -1509146998
+      middleground_84: 218894354
+      middleground_85: 780283528
+      middleground_86: -446457470
+      middleground_87: -2079697264
+      middleground_88: 1269339865
+      middleground_89: 142939278
+      middleground_9: 805403033
+      middleground_90: 1720486712
+      middleground_91: 146796563
+      middleground_92: 771929438
+      middleground_93: -567768473
+      middleground_94: -247141658
+      middleground_95: 1293333674
+      middleground_96: 83508219
+      middleground_97: -1302070758
+      middleground_98: 160721996
+      middleground_99: -2002538898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

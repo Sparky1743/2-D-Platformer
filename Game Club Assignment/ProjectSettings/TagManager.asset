@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - enemy
+  - hero_projectile
+  - Arrow
+  - Checkpoint
+  - cherry
+  - apple
+  - banana
+  - gem
+  - end
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3409164577
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Land
+    uniqueID: 1448787493
+    locked: 0
+  - name: Fireball
+    uniqueID: 3403045529
+    locked: 0
