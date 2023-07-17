@@ -1,5 +1,5 @@
 # 2-D-Platformer
-Uploaded The Project files. Download the zip file and open the "Game Club Assignment" folder with your Unity editor to view the project. The starting scene is _Mainmenu scene in the "Scenes" folder.
+Uploaded The Project files. Download the zip file and open the "Game Club Assignment" folder with your Unity editor to view the project. The editor version used is 2022.3.2f1. The starting scene is _Mainmenu scene in the "Scenes" folder.
 Features of the project:
 Added a main character who can shoot projectiles. 
 
@@ -74,3 +74,17 @@ Technical considerations for implementing Coyote Time include:
 An example of a game that uses the Coyote Time principle is "Super Mario Bros." In many of the Mario platforming games, players have a small window of time after leaving a platform where they can still execute a jump. This implementation contributes to the game's accessible and enjoyable platforming experience.
 
 By incorporating Coyote Time, we can create a more forgiving and player-friendly platforming experience, reducing frustration and enhancing the overall enjoyment of the game.
+
+
+## Review of Celeste:
+Celeste is an exceptional platformer game that offers tight and precise controls, as detailed in the video review. The protagonist, Madeline, exhibits responsive movement with well-defined mechanics. The run mechanic can be divided into three parts: acceleration, top speed, and deceleration. Celeste implements short acceleration and deceleration curves, allowing for precise movement and reducing the likelihood of slipping off platforms. The jump mechanic is balanced, enabling Madeline to jump approximately three times her own height, which feels appropriate and contributes to the overall gameplay experience.
+
+The video also emphasizes the smoothness of turns, as there is no skidding when changing direction. With the addition of air friction, Madeline falls straight down with minimal drift, allowing players to land precisely where intended. The camera perspective, which is zoomed out, enhances the precision of jumps and runs.
+
+Celeste introduces extra moves such as wall climbing, springy wall jumps, and controlled wall sliding. These mechanics add depth to the gameplay, creating a management puzzle aspect. The dash ability enables mid-air dashes that can be replenished by touching surfaces or collecting crystals. Importantly, the dash mechanic only briefly interrupts control, lasting for a mere 0.15 seconds, which allows players to cancel the dash if necessary, particularly to avoid hazards like spikes. This level of control adds to the strategic and satisfying nature of the game.
+
+The art style of Celeste contributes to its immersive experience. Visual elements, such as squash and stretch animations upon jumping, dust particles kicked up while running, controller vibrations when touching the ground, and microscopic screen shakes during dashing, all enhance the overall aesthetics. Additionally, features like the trail of shadows indicating the direction of a dash, along with accompanying animations and sound effects, further enhance the gameplay and provide a cohesive visual and auditory experience.
+
+The review mentions some code hacks that make Celeste less punishing, such as the implementation of the "coyote time" effect, where characters are given a brief grace period after leaving a platform before falling. This design choice increases the forgiving nature of the game. Moreover, the game offers advanced techniques like dash cancelling, allowing players to convert a dash into jump momentum or perform wall bounces, catering to pro players seeking additional challenges and depth.
+
+Celeste is highly praised for its precise controls, strategic gameplay mechanics, immersive art style, and thoughtful design choices. It offers an enjoyable and challenging platforming experience while providing options for different skill levels through accessibility features and advanced techniques for experienced players.
