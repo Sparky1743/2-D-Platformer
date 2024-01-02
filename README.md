@@ -76,7 +76,7 @@ An example of a game that uses the Coyote Time principle is "Super Mario Bros." 
 By incorporating Coyote Time, we can create a more forgiving and player-friendly platforming experience, reducing frustration and enhancing the overall enjoyment of the game.
 
 
-## Review of Celeste:
+>## Review of Celeste:
 Celeste is an exceptional platformer game that offers tight and precise controls, as detailed in the video review. The protagonist, Madeline, exhibits responsive movement with well-defined mechanics. The run mechanic can be divided into three parts: acceleration, top speed, and deceleration. Celeste implements short acceleration and deceleration curves, allowing for precise movement and reducing the likelihood of slipping off platforms. The jump mechanic is balanced, enabling Madeline to jump approximately three times her own height, which feels appropriate and contributes to the overall gameplay experience.
 
 The video also emphasizes the smoothness of turns, as there is no skidding when changing direction. With the addition of air friction, Madeline falls straight down with minimal drift, allowing players to land precisely where intended. The camera perspective, which is zoomed out, enhances the precision of jumps and runs.
